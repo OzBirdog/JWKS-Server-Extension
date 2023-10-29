@@ -8,7 +8,7 @@ As well as screenshot showing the results of both the test suite and the gradebo
 are written in Python and the "jwks.py" file utilizes SQLite3 for the database. The "jwks.py" file is a server that provides
 public keys with unique identifeirs for veryifing JSON Web tokens and stores them in a database. The keys are generated using 
 RSA, have an expiration, and authentication endpoint. The testSuite.py file has three test cases to run against the JWKS Server 
-to check the test coverage.
+to check the test coverage. The screenshot for the gradebot is "Gradebot.PNG" and for the test suite is "Test Case.PNG".
 
 Execution:
 
